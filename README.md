@@ -1,5 +1,5 @@
 
-# Desenvolvimento de uma Página Web para Portifólio Pessoal
+# Desenvolvimento de uma página para Portifólio Pessoal
 
 Este repositório contém o código-fonte e os recursos para o desenvolvimento de uma página web usando tecnologias como HTML e CSS.
 
@@ -35,11 +35,4 @@ Contribuições são bem-vindas! Se você deseja contribuir para o desenvolvimen
 3. Faça commit das suas alterações:  ` git commit -m 'Adicionando funcionalidade XYZ'`.
 4. Faça push para a branch: ` git push origin minha-contribuicao`.
 5. Abra um pull request e descreva suas alterações.
-
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
