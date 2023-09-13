@@ -1,5 +1,5 @@
 
-# Desenvolvimento de uma página para Portifólio Pessoal
+# Desenvolvimento de uma página para Portifólio Pessoal 👩🏼‍💻
 
 Este repositório contém o código-fonte e os recursos para o desenvolvimento de uma página web usando tecnologias como HTML e CSS.
 
